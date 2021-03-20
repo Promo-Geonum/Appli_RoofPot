@@ -1,5 +1,5 @@
 # Appli_RoofPot
-Code et ressources de l'application Roof'Pot
+Codes et ressources de l'application Roof'Pot
 
 Dans le répertoire app on trouve les différents élements constituants de l'application. 
 
