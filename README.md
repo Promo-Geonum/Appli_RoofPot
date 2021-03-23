@@ -12,4 +12,6 @@ Dans le répertoire app on trouve les différents élements constituants de l'ap
 * le dossier php avec les requêtes vers la base 
 * le fichier index de l'application 
 
+Par : Bastien CASTELLO, Camille SCHEFFLER, Léopold ROBITAILLE, Victor DOMEJEAN. 
 
+Promo M2 GéoNum 2019-2021
