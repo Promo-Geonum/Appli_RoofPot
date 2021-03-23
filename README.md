@@ -1,5 +1,5 @@
 # Appli_RoofPot
-Demo, codes et ressources de l'application Roof'Pot
+Demo, codes et ressources de l'application Roof'Pot.
 
 live demo ici : https://victordomejean.github.io/roofpot/
 
